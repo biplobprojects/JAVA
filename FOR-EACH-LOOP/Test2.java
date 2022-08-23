@@ -11,7 +11,7 @@ public class Test2 {
         // }
 
 
-        for(int[] i :a){
+        for(int[] i :a){                   //FOR EACH LOOP:
            for(int b: i){
             System.out.println(b);
            }

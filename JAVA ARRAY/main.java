@@ -1,5 +1,5 @@
 public class main{
-public static void main(String[] args){
+public static void main (String[] args){
 //String[] cars= {"alto","bmw","mercedes","kia"};
 //System.out.println(cars);
 String[] cars= {"alto","bmw","mercedes","kia"};
