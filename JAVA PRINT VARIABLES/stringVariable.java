@@ -4,7 +4,7 @@ String text= "Hello";
 String firstName="Biplob";
 String lastName="Borboruah is my last name";
        //String concatenation- to combine strings:
-System.out.println(text+" "+ firstName.concat(lastName))00;
+System.out.println(text+" "+ firstName.concat(lastName));
 
 System.out.println(lastName.length());//Length of a string:
 
