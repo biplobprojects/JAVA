@@ -1,3 +1,4 @@
+package ARRAYLIST;
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -14,15 +15,16 @@ public class ArrList4 {
 		enames.add("Bhanu");
        
         //FOR SORTING:
-        // Collections.sort(enames);
-        // System.out.println(enames);
-
+        Collections.sort(enames);
+        System.out.println(enames);
+        
+        //FOR REVERSE ORDER:
         Collections.sort(enames,Collections.reverseOrder());
         System.out.println(enames);
 
-        //FOR SHUFFLE:
+        // //FOR SHUFFLE:
         Collections.shuffle(enames);
-        System.out.println(enames);
+        System.out.println(enames;)
         
     }
 }
